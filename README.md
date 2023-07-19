@@ -15,7 +15,7 @@ The User can change/reset his password by getting a transactional email.
 The user can edit his posts but not others.
 
 
-### **You can access the Newspaper website here** -> [**Link**](http://3.125.33.226:8000/)
+### **You can access the Newspaper website here** -> [**Link**](https://rebrand.ly/39avzgh)
 
 
 ## Features
@@ -31,7 +31,7 @@ Python, Django, PostgreSQL, HTML, CSS, AWS (EC2 & RDS).
 
 
 ## 🔗 Links
-[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://3.125.33.226:8000/)
+[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rebrand.ly/39avzgh)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yarin-getter/)
 
